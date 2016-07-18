@@ -1,1 +1,1 @@
-This system requires some Blueprint logic. Check out my post here:
+This system requires some Blueprint logic. Check out my post here: http://wp.me/p6hvtS-fM
