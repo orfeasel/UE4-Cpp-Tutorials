@@ -1,5 +1,5 @@
-# UE4-Game-Systems
-This repository contains all the code I've written in my website tutorials regarding the implementation of Game Systems inside UE4
+# UE4-Cpp-Tutorials
+This repository contains all the code I've written in my website tutorials for UE4.
 
 # Systems so far:
 - Inventory System ( pickup, equip and drop items)
@@ -10,3 +10,4 @@ This repository contains all the code I've written in my website tutorials regar
 - Sniper Elite Cameras
 - FlightPath System
 - EQS Context
+- EQS Custom Generator
