@@ -1,3 +1,4 @@
 # Steam Sample projects
 
-Read the full tutorial here: http://wp.me/p6hvtS-jJ
+Steam Integration: http://wp.me/p6hvtS-jJ
+Steam Achievements: http://wp.me/p6hvtS-jU
