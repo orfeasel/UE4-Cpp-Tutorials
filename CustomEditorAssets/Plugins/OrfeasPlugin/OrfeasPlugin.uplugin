@@ -16,7 +16,7 @@
 	"Modules": [
 		{
 			"Name": "OrfeasPlugin",
-			"Type": "Developer",
+			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
 	]
