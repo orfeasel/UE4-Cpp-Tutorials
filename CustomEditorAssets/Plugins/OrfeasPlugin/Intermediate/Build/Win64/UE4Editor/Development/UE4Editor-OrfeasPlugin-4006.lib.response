@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OrfeasPlugin-4006.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"I:\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"I:\Unreal Projects\V416\CustomAsset\Plugins\OrfeasPlugin\Intermediate\Build\Win64\UE4Editor\Development\OrfeasPlugin\Module.OrfeasPlugin.cpp.obj"
+"I:\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\OrfeasPlugin\PCLaunch.rc.res"
+"I:\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"I:\Unreal Projects\V416\CustomAsset\Plugins\OrfeasPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OrfeasPlugin-4006.lib"
