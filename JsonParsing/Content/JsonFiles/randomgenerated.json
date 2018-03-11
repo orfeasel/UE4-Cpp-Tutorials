@@ -1,0 +1,23 @@
+{
+  "Person": {
+    "_id": "5aa416eb517758cfe840035d",
+    "index": 0,
+    "guid": "e617dc7d-47e2-4a5c-a5cb-b5a580c94b90",
+    "isActive": true,
+    "balance": "$3,352.85",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "green",
+    "name": "Ortiz Ochoa",
+    "gender": "male",
+    "company": "PETICULAR",
+    "email": "ortizochoa@peticular.com",
+    "latitude": -53.214897,
+    "longitude": -156.96938,
+    "family": [
+      "Orfeas",
+      "Kostas",
+      "Vasilis"
+    ]
+  }
+}
