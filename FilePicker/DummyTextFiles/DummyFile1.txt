@@ -1,0 +1,2 @@
+This is the first line of DummyFile1.txt
+This is a nice line!
