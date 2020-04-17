@@ -1,0 +1,8 @@
+﻿  MathIsFunDll.cpp
+     Creating library C:\Users\Orfeas\source\repos\MathIsFunDll\x64\Release\MATHISFUNDLL.lib and object C:\Users\Orfeas\source\repos\MathIsFunDll\x64\Release\MATHISFUNDLL.exp
+  Generating code
+  1 of 3 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MathIsFunDll.vcxproj -> C:\Users\Orfeas\source\repos\MathIsFunDll\x64\Release\MATHISFUNDLL.dll

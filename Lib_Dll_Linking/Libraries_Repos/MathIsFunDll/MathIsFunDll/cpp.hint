@@ -1,0 +1,2 @@
+#define MATHISFUNDLL_API __declspec(dllexport)
+#define MATHISFUNDLL_API __declspec(dllimport)

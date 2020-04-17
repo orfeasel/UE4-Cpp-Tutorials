@@ -1,0 +1,2 @@
+C:\Users\Orfeas\source\repos\OrfeasStaticLibrary\Debug\OrfeasStaticLibrary.pdb
+C:\Users\Orfeas\source\repos\OrfeasStaticLibrary\OrfeasStaticLibrary\Debug\OrfeasStaticLibrary.pdb
