@@ -16,6 +16,7 @@ This repository contains all the code I've written in my website tutorials for U
 - [Save & Load](http://orfeasel.com/saving-and-loading-your-progress/)
 - [Steam Integration](http://wp.me/p6hvtS-jJ)
 - [Steam Achievements](http://wp.me/p6hvtS-jU)
+- [Profiling Code](https://www.orfeasel.com/profiling-code-blocks/)
 
 # Systems so far:
 - [Inventory System (pickup, equip and drop items)](http://orfeasel.com/implementing-inventory-system/)
