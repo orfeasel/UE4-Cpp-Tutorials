@@ -1,5 +1,5 @@
 # UE4-Cpp-Tutorials
-This repository contains all the code I've written in my website tutorials for UE4.
+This repository contains all the code I've written in my [website](http://www.orfeasel.com/blog/) tutorials for UE4.
 
 # Topics covered:
 - [Custom AI Senses](https://wp.me/p6hvtS-sj)
@@ -17,6 +17,8 @@ This repository contains all the code I've written in my website tutorials for U
 - [Steam Integration](http://wp.me/p6hvtS-jJ)
 - [Steam Achievements](http://wp.me/p6hvtS-jU)
 - [Profiling Code](https://www.orfeasel.com/profiling-code-blocks/)
+- [Unit Tests](https://www.orfeasel.com/unit-testing/)
+- [Functional Tests](https://www.orfeasel.com/functional-tests/)
 
 # Systems so far:
 - [Inventory System (pickup, equip and drop items)](http://orfeasel.com/implementing-inventory-system/)
